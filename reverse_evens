@@ -1,0 +1,14 @@
+def evens():
+
+	#num1 =  (int)(raw_input("enter num1 "))
+	#num2 = (int)(raw_input("enter num2 "))
+	while(num1 < num2):
+		num1 = num1 + 1
+		print num1
+		
+		
+	
+
+result = evens()
+print result	
+	
