@@ -50,6 +50,11 @@ def get_age():
 	elif(age < 20):
 		print "you are young"
 	elif(age < 46):
-		print "you are old"		
+		print "you are old"	
+			
 
 get_age()
+get_age()
+
+
+

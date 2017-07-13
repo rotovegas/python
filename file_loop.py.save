@@ -1,4 +1,4 @@
-#def evens():
+def evens():
 
 	num1 = 0
 	num2 = 20
@@ -10,10 +10,10 @@
 	
 result =  evens()
 print result
-#print the text
+#print the text " hello python"
 print "hello python"	
-
-# print status of age 	
+	
+#
 a =(int)( raw_input("enter a number"))
 if(a < 12):
 	print "you are a child"
@@ -24,5 +24,3 @@ else:
 	
 print "you are matured"
 
-print "\n"
-print "successful"

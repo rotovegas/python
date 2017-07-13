@@ -1,0 +1,3 @@
+#print the text "hello python"
+print "hello python"
+
