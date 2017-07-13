@@ -13,3 +13,13 @@ print result
 #print the text
 print "hello python"	
 	
+a =(int)( raw_input("enter a number"))
+if(a < 12):
+	print "you are a child"
+elif(a < 25):
+	print "you are young"
+
+else:
+	
+print "you are matured"
+
