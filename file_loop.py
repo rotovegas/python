@@ -10,5 +10,6 @@ def evens():
 	
 result =  evens()
 print result
-	
+#print the text
+print "hello python"	
 	
